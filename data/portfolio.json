@@ -1,0 +1,414 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "George Brown College",
+      "industry": "Event Management",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting (Social)"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/gbcanalyticsclub/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 2,
+      "name": "Peptid+",
+      "industry": "Beauty & Personal Care",
+      "description": "",
+      "deliverables": [
+        "Amazon Marketplace Content & Design",
+        "Product Descriptions",
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/peptidusa",
+        "facebook": null,
+        "website": "Peptid+ Amazon"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 3,
+      "name": "KingZak",
+      "industry": "Event Planning/Party Supplies",
+      "description": "",
+      "deliverables": [
+        "Product Descriptions",
+        "SEO Optimization",
+        "Website Layout Redesign",
+        "PPC campaign (Google Ads)"
+      ],
+      "links": {
+        "instagram": null,
+        "facebook": null,
+        "website": "KingZak"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+  "id": 4,
+  "name": "Goodwyn Tea",
+  "industry": "Food & Beverage",
+  "description": "",
+  "deliverables": [
+    "Social Media Content (Static & Video)",
+    "Copywriting",
+    "Captions",
+    "Website Layout Redesign",
+    "Product Descriptions (Website & Amazon)",
+    "UX Writing",
+    "SEO Optimization",
+    "PPC (Google & Meta)"
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/goodwyntea/",
+    "facebook": null,
+    "website": "https://goodwyntea.com/"
+  },
+  "images": {
+    "showcase": [
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/GWDTRLthumb2.jpg",
+        "link": "https://www.instagram.com/p/YOUR_POST_LINK_1/"
+      },
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/Goodwyntea_logo.webp",
+        "link": "https://www.instagram.com/p/YOUR_POST_LINK_2/"
+      },
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/GWDTRLthumb3.jpg",
+        "link": "https://www.instagram.com/p/YOUR_POST_LINK_3/"
+      },
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/GWDTRlthumbnail.jpg",
+        "link": "https://www.instagram.com/p/YOUR_POST_LINK_4/"
+      },
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/GWDTST2.jpg",
+        "link": "https://www.instagram.com/p/YOUR_POST_LINK_5/"
+      },
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/GWTMenu1.jpeg",
+        "link": ""
+      },
+      {
+        "thumbnail": "https://cdn.jsdelivr.net/gh/Siddberry/portfolio-assets@main/images/Goodwyn%20Tea/GWTST1.jpg",
+        "link": "https://www.instagram.com/p/CmYg2DEyFFN/?hl=en"
+      }
+    ]
+  },
+  "results": {}
+},
+    {
+      "id": 5,
+      "name": "Sacred Suta (Deviiii Designs Pvt. Ltd.)",
+      "industry": "Fashion",
+      "description": "",
+      "deliverables": [
+        "Copywriting",
+        "Product Descriptions",
+        "Website Design",
+        "UX Writing",
+        "Social Media Content (Static & Video)",
+        "Influencer Collaborations",
+        "SEO Optimization",
+        "PPC campaign (Google Ads)",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/sacred.suta/",
+        "facebook": null,
+        "website": "Sacred Suta"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 6,
+      "name": "BT Automation",
+      "industry": "Home Decor/Home Automation",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Editorial Calendar",
+        "Captions",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/btkolkataofficial/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 7,
+      "name": "Indian Silk House",
+      "industry": "Fashion",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "Website Layout Redesign",
+        "UX Writing",
+        "Product Descriptions",
+        "Blogs",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/indian_silk_house_exclusives/",
+        "facebook": null,
+        "website": "Indian Silk House"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 8,
+      "name": "Castlewood India",
+      "industry": "Lifestyle",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "Website Design",
+        "UX Writing"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/castlewoodindia_official/",
+        "facebook": null,
+        "website": "Castlewood India"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 9,
+      "name": "SPPL Classic Furniture",
+      "industry": "Home Decor",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Editorial Calendar",
+        "Captions"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/sppl.classicfurnitures/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 10,
+      "name": "Kids Natkhat",
+      "industry": "Kid's Fashion",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "Website Design",
+        "UX Writing",
+        "Editorial Calendar",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/kidsnatkhat/",
+        "facebook": null,
+        "website": "Kid's Natkhat"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 11,
+      "name": "Biskid",
+      "industry": "",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Editorial Calendar",
+        "Captions",
+        "Influencer Collaborations",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/biskidofficial/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 12,
+      "name": "Uno Kids",
+      "industry": "",
+      "description": "",
+      "deliverables": [],
+      "links": {
+        "instagram": "https://www.instagram.com/annie.co.in/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 13,
+      "name": "Annie",
+      "industry": "",
+      "description": "",
+      "deliverables": [],
+      "links": {
+        "instagram": "https://www.instagram.com/unokids.in/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 14,
+      "name": "Orange Umbrellas",
+      "industry": "Lifestyle",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Editorial Calendar",
+        "Captions"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/orange_umbrellas/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 15,
+      "name": "Triosco",
+      "industry": "Advertising Agency",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "Website Layout Redesign",
+        "Project Descriptions",
+        "Video Production"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/triosco_india/",
+        "facebook": null,
+        "website": "TriosCo"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 16,
+      "name": "Curio Cottage",
+      "industry": "Designer Jewelry ",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "PPC (Meta Ads)",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/curio_cottage/?hl=en",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 17,
+      "name": "Arobit Business Solutions",
+      "industry": "Technology",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "Website Layout Redesign",
+        "Blogs",
+        "Monthly Newsletter (Design & Content)"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/arobit_business_solutions/",
+        "facebook": null,
+        "website": "Arobit Tech"
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 18,
+      "name": "Moreish",
+      "industry": "Food & Beverage",
+      "description": "",
+      "deliverables": [
+        "Social Media Content (Static & Video)",
+        "Copywriting",
+        "Captions",
+        "Video Production",
+        "Product Photoshoots"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/moreishfoods/",
+        "facebook": null,
+        "website": null
+      },
+      "images": {},
+      "results": {}
+    },
+    {
+      "id": 19,
+      "name": "Indian Chamber of Commerce",
+      "industry": "Non-profit Governmental Organization\n(Business & Trade)",
+      "description": "",
+      "deliverables": [
+        "Corporate Video Content & Flow (Released Internally)"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/indianchamber/?hl=en",
+        "facebook": null,
+        "website": "Indian Chamber of Commerce"
+      },
+      "images": {},
+      "results": {}
+    }
+  ]
+}
